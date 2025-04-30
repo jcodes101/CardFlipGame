@@ -1,8 +1,3 @@
-/**
- * Jadin Hutchinson
- * Comp 167
- * 005
- */
 
 // Imports for CardGridPane Class
 import javafx.scene.layout.GridPane;
