@@ -1,8 +1,3 @@
-/**
- * Jadin Hutchinson
- * Comp 167
- * 005
- */
 
 // Imports for Card class
 import javafx.scene.image.Image;
