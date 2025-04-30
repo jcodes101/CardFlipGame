@@ -1,8 +1,3 @@
-/**
- * Jadin Hutchinson
- * Comp 167
- * 005
- */
 
 import javafx.application.Application;
 import javafx.scene.Scene;
