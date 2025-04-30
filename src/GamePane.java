@@ -1,8 +1,3 @@
-/**
- * Jadin Hutchinson
- * Comp 167
- * 005
- */
 
 import javafx.animation.AnimationTimer;
 import javafx.geometry.Pos;
